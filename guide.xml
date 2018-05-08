@@ -1,2078 +1,1028 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="ANIMAL PLANET">
-    <display-name lang="pt">ANIMAL PLANET</display-name>
-    <icon src="http://www.lineup.tv.br/canais/animalplanet.gif" />
+  <channel id="SporTV 2">
+    <display-name lang="pt">SporTV 2</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sportv2.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
-  <channel id="Animal Planet HD">
-    <display-name lang="pt">Animal Planet HD</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="SporTv 2">
+    <display-name lang="pt">SporTv 2</display-name>
+    <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="HISTORY">
-    <display-name lang="pt">HISTORY</display-name>
-    <icon src="http://www.lineup.tv.br/canais/history.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="H2">
-    <display-name lang="pt">H2</display-name>
-    <icon src="http://www.lineup.tv.br/canais/h2.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <programme start="20180411000500 -0300" stop="20180411005500 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Meu Gato Endiabrado - S7E4</title>
-    <desc lang="pt">Uma musicista não sabe como lidar com a agressividade de seu gato; uma família tem medo de redecorar a casa porque o gato que resgataram do furacão Katrina faz xixi fora da caixinha(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411005500 -0300" stop="20180411014500 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Com Água Até o Pescoço - S4E7</title>
-    <desc lang="pt">Os rapazes se juntam a uma empresa para construir uma mesa-aquário única para uma demonstração em Las Vegas. Eles ainda montam uma réplica de um navio de pesca de caranguejos(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411014500 -0300" stop="20180411023500 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Oriente Médio Selvagem E5</title>
-    <desc lang="pt">Uma viagem pelo Turcomenistão selvagem(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411023500 -0300" stop="20180411032500 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Casas na Árvore - S5E1</title>
-    <desc lang="pt">Pete entra em contato com velhos amigos da Carolina do Norte para construir um santuário zen nas árvores. Com um prazo de nove dias, eles constroem um refúgio com vista para as Montanhas Blue Ridge(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411032500 -0300" stop="20180411041200 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Piscinas Incríveis - S2E1</title>
-    <desc lang="pt">O designer de piscinas Lucas Congdon e sua equipe encaram o desafio de criar uma floresta no quintal de uma casa no subúrbio(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411041200 -0300" stop="20180411050200 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Com Água Até o Pescoço - S7E11</title>
-    <desc lang="pt">O San Francisco Giants contrata a ATM para trazer McCovey Cove para o campo de beisebol. O time de beisebol precisa de um aquário grande o suficiente para impressionar todos os seus leais torcedores(n)</desc>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411050200 -0300" stop="20180411055400 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Jeff Corwin em Ação E10</title>
-    <desc lang="pt">Na Namíbia encontram-se as dunas de areia mais altas do mundo, o mais velho deserto, a cobra e o mamífero mais velozes de que se tem notícia(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411055400 -0300" stop="20180411064500 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Pit bulls e Condenados - S7E2</title>
-    <desc lang="pt">Pronto para assumir mais responsabilidades, Sui comanda um resgate. Uma adotante procura um cão que se sinta à vontade com muitas galinhas. Tia resgata um pitbull com cicatrizes(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411064500 -0300" stop="20180411073600 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Justiça Animal - S2E2</title>
-    <desc lang="pt">Agentes do Departamento de Pesca e Vida Selvagem de Washington confrontam caçadores de ursos; um homem procurado pela polícia é flagrado fazendo sexo; e um agente encontra uma cascavel(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20180411073600 -0300" stop="20180411082700 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Pit bulls e Condenados - S7E9</title>
-    <desc lang="pt">A chance de um cachorro ter um lar definitivo é ameaçada quando ele é diagnosticado com um tumor. Tia enfrenta um dilema quando um cão agressivo se torna um perigo para sua equipe(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411082700 -0300" stop="20180411091800 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Com Água Até o Pescoço - S5E8</title>
-    <desc lang="pt">A ATM fica em polvorosa quando o astro internacional David Hasselhoff encomenda um tanque. Mergulhador exímio, David adoraria ter um tanque de tubarões em casa, mas depois de uma visita ao Aquário do Pacífico, eles recebem uma má notícia(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411091800 -0300" stop="20180411100900 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Vida E2</title>
-    <desc lang="pt">Répteis e anfíbios valeram-se de seu sangue frio e de sofisticadas inovações comportamentais para dominar os ambientes mais inóspitos da Terra. Veja dragões-de-komodo caçando búfalos, cobras marinhas venenosas e lagartos que podem andar sobre a água(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411100900 -0300" stop="20180411110000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Justiça Animal - S2E2</title>
-    <desc lang="pt">Agentes do Departamento de Pesca e Vida Selvagem de Washington confrontam caçadores de ursos; um homem procurado pela polícia é flagrado fazendo sexo; e um agente encontra uma cascavel(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20180411110000 -0300" stop="20180411115100 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Pit bulls e Condenados - S7E9</title>
-    <desc lang="pt">A chance de um cachorro ter um lar definitivo é ameaçada quando ele é diagnosticado com um tumor. Tia enfrenta um dilema quando um cão agressivo se torna um perigo para sua equipe(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411115100 -0300" stop="20180411122100 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Pântano Perigoso E10</title>
-    <desc lang="pt">Uma perigosa cascavel está solta na fazenda. Robbie entra em apuros quando um crocodilo-cubano escapa e o persegue(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411122100 -0300" stop="20180411132100 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Com Água Até o Pescoço - S5E8</title>
-    <desc lang="pt">A ATM fica em polvorosa quando o astro internacional David Hasselhoff encomenda um tanque. Mergulhador exímio, David adoraria ter um tanque de tubarões em casa, mas depois de uma visita ao Aquário do Pacífico, eles recebem uma má notícia(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411132100 -0300" stop="20180411141200 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S2E8</title>
-    <desc lang="pt">Dominic está na Nova Zelândia para encontrar um dos maiores e mais pesados insetos da Terra: o wetapunga, um gigante muito raro, encontrado somente na Nova Zelândia(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180411141200 -0300" stop="20180411150300 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Animais em Risco - Houston - S19E4</title>
-    <desc lang="pt">Os investigadores da Sociedade Protetora dos Animais de Houston enfrentam um caso grave de acumulação quando encontram 120 gatos vivendo em condições terríveis em uma casa no subúrbio(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411150300 -0300" stop="20180411155400 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Animais em Risco - Houston - S19E5</title>
-    <desc lang="pt">Um investigador atende a uma denúncia de crueldade feita pela polícia: um cavalo foi arrastado por uma estrada e abandonado com ferimentos graves(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411155400 -0300" stop="20180411164500 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Animais em Risco - Houston - S19E6</title>
-    <desc lang="pt">Agentes de controle de animais retiram os gatos do apartamento de uma mulher que foi despejada. Alguns deles têm problemas graves de saúde e precisam ser medicados com urgência(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411164500 -0300" stop="20180411173600 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Vida E2</title>
-    <desc lang="pt">Répteis e anfíbios valeram-se de seu sangue frio e de sofisticadas inovações comportamentais para dominar os ambientes mais inóspitos da Terra. Veja dragões-de-komodo caçando búfalos, cobras marinhas venenosas e lagartos que podem andar sobre a água(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411173600 -0300" stop="20180411183000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S3E4</title>
-    <desc lang="pt">Dom viaja para Maputo, a efervescente capital litorânea de Moçambique. Sua missão: nadar com o maior peixe do mundo, o tubarão-baleia(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180411183000 -0300" stop="20180411190000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Terra Brasil E6</title>
-    <desc lang="pt">Mayra, Aruay e Anderson visitam umadas mais importantes áreas conservadas de restinga do litoral do Brasil, caminhando pela  praia e desbravando a costa litorânea rica em biodiversidade(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Meio Ambiente</category>
+  <programme start="20180508000000 -0300" stop="20180508010000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Cruzeiro x Botafogo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
     <country>Brasil</country>
   </programme>
-  <programme start="20180411190000 -0300" stop="20180411195000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Aventura Selvagem E1</title>
-    <desc lang="pt">Nesta série, o apresentador Richard Rasmussen mistura aventura e diversão enquanto viaja para os mais variados locais e biomas, dentro e fora do Brasil, para mostrar a flora e a fauna locais(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Aventura</category>
+  <programme start="20180508010000 -0300" stop="20180508030000 -0300" channel="SporTV 2">
+    <title lang="pt">Superliga de Vôlei Masculino: Cruzeiro x Sesi</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Masculino</category>
   </programme>
-  <programme start="20180411195000 -0300" stop="20180411204000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Bahama Selvagem - S1E1</title>
-    <desc lang="pt">Mais do que um emaranhado de raízes crescendo em um pântano lamacento, os mangues são berçários da vida marinha nas Bahamas(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
+  <programme start="20180508030000 -0300" stop="20180508040000 -0300" channel="SporTV 2">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20180411204000 -0300" stop="20180411213000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Planeta Terra - S1E2</title>
-    <desc lang="pt">Este episódio explica os fatores geológicos envolvidos na formação das forças vulcânicas que moldaram a terra e suas cadeias de montanhas(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411213000 -0300" stop="20180411222000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">África - S1E3</title>
-    <desc lang="pt">A floresta tropical do Congo, no coração da África, é um habitat pulsante e cheio de vida. Do meio da floresta às margens do Oceano Atlântico, cada um tem que brigar por seu espaço(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411222000 -0300" stop="20180411231000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">África Selvagem: Rios E3</title>
-    <desc lang="pt">Um olhar sobre a paisagem e os animais que habitam os rios da África, do deserto seco e do mato, através de savanas densas e até mesmo pelas selvas africanas mais profundas(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411231000 -0300" stop="20180412000500 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Planeta Terra - S1E2</title>
-    <desc lang="pt">Este episódio explica os fatores geológicos envolvidos na formação das forças vulcânicas que moldaram a terra e suas cadeias de montanhas(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412000500 -0300" stop="20180412005500 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Com Água Até o Pescoço - S7E11</title>
-    <desc lang="pt">O San Francisco Giants contrata a ATM para trazer McCovey Cove para o campo de beisebol. O time de beisebol precisa de um aquário grande o suficiente para impressionar todos os seus leais torcedores(n)</desc>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412005500 -0300" stop="20180412014500 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Com Água Até o Pescoço - S4E8</title>
-    <desc lang="pt">Wayde e Brett são abordados pelo famoso pintor de vida marinha Guy Harvey para construir seu maior aquário para o resort Trade Winds, em Saint Pete Beach, na Flórida(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412014500 -0300" stop="20180412023500 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Bahama Selvagem - S1E1</title>
-    <desc lang="pt">Mais do que um emaranhado de raízes crescendo em um pântano lamacento, os mangues são berçários da vida marinha nas Bahamas(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412023500 -0300" stop="20180412032500 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">África - S1E3</title>
-    <desc lang="pt">A floresta tropical do Congo, no coração da África, é um habitat pulsante e cheio de vida. Do meio da floresta às margens do Oceano Atlântico, cada um tem que brigar por seu espaço(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412032500 -0300" stop="20180412041200 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Planeta Terra - S1E2</title>
-    <desc lang="pt">Este episódio explica os fatores geológicos envolvidos na formação das forças vulcânicas que moldaram a terra e suas cadeias de montanhas(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412041200 -0300" stop="20180412050200 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Planeta Terra - S1E2</title>
-    <desc lang="pt">Este episódio explica os fatores geológicos envolvidos na formação das forças vulcânicas que moldaram a terra e suas cadeias de montanhas(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412050200 -0300" stop="20180412055400 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Jeff Corwin em Ação E11</title>
-    <desc lang="pt">Madagascar é uma ilha cujas plantas e animais evoluíram por mais de 150 milhões de anos. Nestas florestas tropicais primitivas, Jeff descobre animais exóticos(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412055400 -0300" stop="20180412064500 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Pit bulls e Condenados - S7E3</title>
-    <desc lang="pt">Um vira-lata fica preso em um pântano; Tia acolhe dois filhotes doentes de um dono sobrecarregado; um dos moradores favoritos de Villalobos finalmente tem a chance de ter um lar definitivo(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412064500 -0300" stop="20180412073600 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Justiça Animal - S2E3</title>
-    <desc lang="pt">Agentes do Departamento de Pesca e Vida Selvagem de Washington prendem dois criminosos perigos; um fugitivo é capturado; um agente entra em ação ao presenciar um acidente de carro(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20180412073600 -0300" stop="20180412082700 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Pit bulls e Condenados - S7E10</title>
-    <desc lang="pt">Tia tenta resgatar um pitbull assustado, abandonado pelos donos em uma casa vazia. Acompanhada da filha, uma mulher de Oklahoma chega a Nova Orleans em busca de um amigo fiel(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412082700 -0300" stop="20180412091800 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Com Água Até o Pescoço - S5E9</title>
-    <desc lang="pt">O cliente favorito da ATM, o astro da NBA Shaquille O'Neal, decide encomendar um segundo aquário para Brett e Waide. Eles constroem um aquário inspirado no Egito - e digno de um faraó(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412091800 -0300" stop="20180412100900 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Encontros Ferozes - S1E2</title>
-    <desc lang="pt">O zoologista Steve Backshall fica cara a cara com os animais mais mortais do planeta e as pessoas que vivem ao lado deles(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180412100900 -0300" stop="20180412110000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Justiça Animal - S2E3</title>
-    <desc lang="pt">Agentes do Departamento de Pesca e Vida Selvagem de Washington prendem dois criminosos perigos; um fugitivo é capturado; um agente entra em ação ao presenciar um acidente de carro(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comportamento</category>
-  </programme>
-  <programme start="20180412110000 -0300" stop="20180412115100 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Pit bulls e Condenados - S7E10</title>
-    <desc lang="pt">Tia tenta resgatar um pitbull assustado, abandonado pelos donos em uma casa vazia. Acompanhada da filha, uma mulher de Oklahoma chega a Nova Orleans em busca de um amigo fiel(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412115100 -0300" stop="20180412122100 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Pântano Perigoso E11</title>
-    <desc lang="pt">Robbie e Stephen tentam capturar e sedar porcos gigantes para um tratamento. Robbie retira um crocodilo de uma área de nado(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412122100 -0300" stop="20180412132100 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Com Água Até o Pescoço - S5E9</title>
-    <desc lang="pt">O cliente favorito da ATM, o astro da NBA Shaquille O'Neal, decide encomendar um segundo aquário para Brett e Waide. Eles constroem um aquário inspirado no Egito - e digno de um faraó(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412132100 -0300" stop="20180412141200 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S2E9</title>
-    <desc lang="pt">Dominic chega à Costa Rica, que abriga mais de meio milhão de espécies de animais, incluindo uma rã do tamanho de uma unha, incrivelmente bonita e extremamente ameaçada(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180412141200 -0300" stop="20180412150300 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Planeta Mutante - S1E4</title>
-    <desc lang="pt">Às margens dos lagos do Vale do Rift, na África, um bando de chimpanzés oferece um incrível contraponto evolucionário à incrível história dos peixes pequenos que vivem abaixo da superfície, um fenômeno único no planeta(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412150300 -0300" stop="20180412155400 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Planeta Mutante - S1E5</title>
-    <desc lang="pt">Madagascar é a terra dos lêmures, uma antiga família de primatas que evoluiu de um único grupo que chegou à ilha há mais de 60 milhões de anos. Para eles, a ilha foi uma oportunidade evolucionária, que hoje abriga mais de 100 espécies(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412155400 -0300" stop="20180412164500 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Planeta Mutante - S1E6</title>
-    <desc lang="pt">Isolados do continente asiático, os animais do Japão foram obrigados a sobreviver às ilhas com maior atividade vulcânica da Terra e enfrentar um clima extremo. Nesse habitat, os animais precisam encontrar formas de superar os períodos de fome(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412164500 -0300" stop="20180412173600 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Encontros Ferozes - S1E3</title>
-    <desc lang="pt">Steve viaja para o México, que descreve como um de seus lugares favoritos para procurar animais selvagens. É um país enorme e fascinante, com muitos ambientes naturais intocados(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180412173600 -0300" stop="20180412183000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S3E5</title>
-    <desc lang="pt">Dom está na África do Sul em busca dos felinos mais raros do mundo: os leões brancos de Timbavati. Como existem apenas 13 em estado selvagem, é uma oportunidade realmente única(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180412183000 -0300" stop="20180412190000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Terra Brasil E7</title>
-    <desc lang="pt">Anderson e Aruay caminham pela mata da maior reserva privada de Mata Atlântica do Brasil, o Legado das Águas e chegam até o cenário exuberante da cachoeira de Dezembro. Pelo percurso animais, plantas e o rio são os principais atrativos(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Meio Ambiente</category>
+  <programme start="20180508040000 -0300" stop="20180508050000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Vitória x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
     <country>Brasil</country>
   </programme>
-  <programme start="20180412190000 -0300" stop="20180412195000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Aventura Selvagem E2</title>
-    <desc lang="pt">Nesta série, o apresentador Richard Rasmussen mistura aventura e diversão enquanto viaja para os mais variados locais e biomas, dentro e fora do Brasil, para mostrar a flora e a fauna locais(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Aventura</category>
-  </programme>
-  <programme start="20180412195000 -0300" stop="20180412204000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Bahama Selvagem - S1E2</title>
-    <desc lang="pt">Oculto sob a superfície do arquipélago das Bahamas, existe um mundo mágico de milhões de anos de idade(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412204000 -0300" stop="20180412213000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Animais Mortais Da Austrália - S1E2</title>
-    <desc lang="pt">Conheça os 72 animais mais perigosos da Austrália neste documentário envolvente(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412213000 -0300" stop="20180412222000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Aventuras na Semana do Tubarão</title>
-    <desc lang="pt">Neste especial da Semana do Tubarão, você vai se divertir com façanhas, dados curiosos e a ciência inovadora que estuda os tubarões com a ajuda dos mais ousados especialistas no assunto(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412222000 -0300" stop="20180412231000 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Lobos Assassinos</title>
-    <desc lang="pt">Os moradores da aldeia de Verhoyansk estão lutando por suas vidas contra um grupo de 400 lobos. O que pode ser feito para parar esses superlobos?(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412231000 -0300" stop="20180413000500 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Felinos Sangrentos</title>
-    <desc lang="pt">Um elemento patogênico parece se espalhar pelo planeta dando aos grandes felinos uma sede de sangue humano. Leões, tigres e leopardos atacam com mais frequência e um vírus pode ser o motivo(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411000500 -0300" stop="20180411005500 -0300" channel="Animal Planet HD">
-    <title lang="pt">Meu Gato Endiabrado</title>
-    <desc lang="pt">Uma musicista não sabe como lidar com a agressividade de seu gato; uma família tem medo de redecorar a casa porque o gato que resgataram do furacão Katrina faz xixi fora da caixinha(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411005500 -0300" stop="20180411014500 -0300" channel="Animal Planet HD">
-    <title lang="pt">Com Água Até o Pescoço</title>
-    <desc lang="pt">Os rapazes se juntam a uma empresa para construir uma mesa-aquário única para uma demonstração em Las Vegas. Eles ainda montam uma réplica de um navio de pesca de caranguejos(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411014500 -0300" stop="20180411023500 -0300" channel="Animal Planet HD">
-    <title lang="pt">Oriente Médio Selvagem</title>
-    <desc lang="pt">Uma viagem pelo Turcomenistão selvagem(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411023500 -0300" stop="20180411032500 -0300" channel="Animal Planet HD">
-    <title lang="pt">Casas na Árvore</title>
-    <desc lang="pt">Pete entra em contato com velhos amigos da Carolina do Norte para construir um santuário zen nas árvores. Com um prazo de nove dias, eles constroem um refúgio com vista para as Montanhas Blue Ridge(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411032500 -0300" stop="20180411041200 -0300" channel="Animal Planet HD">
-    <title lang="pt">Piscinas Incríveis</title>
-    <desc lang="pt">O designer de piscinas Lucas Congdon e sua equipe encaram o desafio de criar uma floresta no quintal de uma casa no subúrbio(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411041200 -0300" stop="20180411050200 -0300" channel="Animal Planet HD">
-    <title lang="pt">Com Água Até o Pescoço</title>
-    <desc lang="pt">O San Francisco Giants contrata a ATM para trazer McCovey Cove para o campo de beisebol. O time de beisebol precisa de um aquário grande o suficiente para impressionar todos os seus leais torcedores(n)</desc>
-    <credits>
-      <director>Cyndi Haas</director>
-      <actor>Frankie DiLuzio</actor>
-      <actor>Wayde King</actor>
-      <actor>Brett Raymer</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411050200 -0300" stop="20180411055400 -0300" channel="Animal Planet HD">
-    <title lang="pt">Jeff Corwin em Ação</title>
-    <desc lang="pt">Na Namíbia encontram-se as dunas de areia mais altas do mundo, o mais velho deserto, a cobra e o mamífero mais velozes de que se tem notícia(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411055400 -0300" stop="20180411064500 -0300" channel="Animal Planet HD">
-    <title lang="pt">Pit bulls e Condenados</title>
-    <desc lang="pt">Pronto para assumir mais responsabilidades, Sui comanda um resgate. Uma adotante procura um cão que se sinta à vontade com muitas galinhas. Tia resgata um pitbull com cicatrizes(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411064500 -0300" stop="20180411073600 -0300" channel="Animal Planet HD">
-    <title lang="pt">Justiça Animal</title>
-    <desc lang="pt">Agentes do Departamento de Pesca e Vida Selvagem de Washington confrontam caçadores de ursos; um homem procurado pela polícia é flagrado fazendo sexo; e um agente encontra uma cascavel(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411073600 -0300" stop="20180411082700 -0300" channel="Animal Planet HD">
-    <title lang="pt">Pit bulls e Condenados</title>
-    <desc lang="pt">A chance de um cachorro ter um lar definitivo é ameaçada quando ele é diagnosticado com um tumor. Tia enfrenta um dilema quando um cão agressivo se torna um perigo para sua equipe(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411082700 -0300" stop="20180411091800 -0300" channel="Animal Planet HD">
-    <title lang="pt">Com Água Até o Pescoço</title>
-    <desc lang="pt">A ATM fica em polvorosa quando o astro internacional David Hasselhoff encomenda um tanque. Mergulhador exímio, David adoraria ter um tanque de tubarões em casa(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411091800 -0300" stop="20180411100900 -0300" channel="Animal Planet HD">
-    <title lang="pt">Vida</title>
-    <desc lang="pt">Os répteis e anfíbios valeram-se de seu sangue frio e de sofisticadas inovações comportamentais para dominar os ambientes mais inóspitos da Terra(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411100900 -0300" stop="20180411110000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Justiça Animal</title>
-    <desc lang="pt">Agentes do Departamento de Pesca e Vida Selvagem de Washington confrontam caçadores de ursos; um homem procurado pela polícia é flagrado fazendo sexo; e um agente encontra uma cascavel(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411110000 -0300" stop="20180411115100 -0300" channel="Animal Planet HD">
-    <title lang="pt">Pit bulls e Condenados</title>
-    <desc lang="pt">A chance de um cachorro ter um lar definitivo é ameaçada quando ele é diagnosticado com um tumor. Tia enfrenta um dilema quando um cão agressivo se torna um perigo para sua equipe(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411115100 -0300" stop="20180411122100 -0300" channel="Animal Planet HD">
-    <title lang="pt">Pântano Perigoso</title>
-    <desc lang="pt">Uma perigosa cascavel está solta na fazenda. Robbie entra em apuros quando um crocodilo-cubano escapa e o persegue(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411122100 -0300" stop="20180411132100 -0300" channel="Animal Planet HD">
-    <title lang="pt">Com Água Até o Pescoço</title>
-    <desc lang="pt">A ATM fica em polvorosa quando o astro internacional David Hasselhoff encomenda um tanque. Mergulhador exímio, David adoraria ter um tanque de tubarões em casa(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411132100 -0300" stop="20180411141200 -0300" channel="Animal Planet HD">
-    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan</title>
-    <desc lang="pt">Dominic está na Nova Zelândia para encontrar um dos maiores e mais pesados insetos da Terra: o wetapunga, um gigante muito raro, encontrado somente na Nova Zelândia(n)</desc>
-    <credits>
-      <director>null</director>
-      <actor>Dominic Monaghan</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>5.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411141200 -0300" stop="20180411150300 -0300" channel="Animal Planet HD">
-    <title lang="pt">Animais em Risco</title>
-    <sub-title lang="pt">Houston</sub-title>
-    <desc lang="pt">Os investigadores da Sociedade Protetora dos Animais de Houston enfrentam um caso grave de acumulação quando encontram 120 gatos vivendo em condições terríveis em uma casa no subúrbio(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411150300 -0300" stop="20180411155400 -0300" channel="Animal Planet HD">
-    <title lang="pt">Animais em Risco</title>
-    <sub-title lang="pt">Houston</sub-title>
-    <desc lang="pt">Um investigador atende a uma denúncia de crueldade feita pela polícia: um cavalo foi arrastado por uma estrada e abandonado com ferimentos graves(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411155400 -0300" stop="20180411164500 -0300" channel="Animal Planet HD">
-    <title lang="pt">Animais em Risco</title>
-    <sub-title lang="pt">Houston</sub-title>
-    <desc lang="pt">Agentes de controle de animais retiram os gatos do apartamento de uma mulher que foi despejada. Alguns deles têm problemas graves de saúde e precisam ser medicados com urgência(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411164500 -0300" stop="20180411173600 -0300" channel="Animal Planet HD">
-    <title lang="pt">Vida</title>
-    <desc lang="pt">Os répteis e anfíbios valeram-se de seu sangue frio e de sofisticadas inovações comportamentais para dominar os ambientes mais inóspitos da Terra(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411173600 -0300" stop="20180411183000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan</title>
-    <desc lang="pt">Dom viaja para Maputo, a efervescente capital litorânea de Moçambique. Sua missão: nadar com o maior peixe do mundo, o tubarão-baleia(n)</desc>
-    <credits>
-      <director>null</director>
-      <actor>Dominic Monaghan</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411183000 -0300" stop="20180411190000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Terra Brasil</title>
-    <desc lang="pt">Mayra, Aruay e Anderson visitam umadas mais importantes áreas conservadas de restinga do litoral do Brasil, caminhando pela  praia e desbravando a costa litorânea rica em biodiversidade(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411190000 -0300" stop="20180411195000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Aventura Selvagem</title>
-    <desc lang="pt">Nesta série, o apresentador Richard Rasmussen mistura aventura e diversão enquanto viaja para os mais variados locais e biomas, dentro e fora do Brasil, para mostrar a flora e a fauna locais(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411195000 -0300" stop="20180411204000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Bahama Selvagem</title>
-    <desc lang="pt">Mais do que um emaranhado de raízes crescendo em um pântano lamacento, os mangues são berçários da vida marinha nas Bahamas(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411204000 -0300" stop="20180411213000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Planeta Terra</title>
-    <desc lang="pt">Este episódio explica os fatores geológicos envolvidos na formação das forças vulcânicas que moldaram a terra e suas cadeias de montanhas(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411213000 -0300" stop="20180411222000 -0300" channel="Animal Planet HD">
-    <title lang="pt">África</title>
-    <desc lang="pt">A floresta tropical do Congo, no coração da África, é um habitat pulsante e cheio de vida. Do meio da floresta às margens do Oceano Atlântico, cada um tem que brigar por seu espaço(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411222000 -0300" stop="20180411231000 -0300" channel="Animal Planet HD">
-    <title lang="pt">África Selvagem: Rios</title>
-    <desc lang="pt">Um olhar sobre a paisagem e os animais que habitam os rios da África, do deserto seco e do mato, através de savanas densas e até mesmo pelas selvas africanas mais profundas(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411231000 -0300" stop="20180412000500 -0300" channel="Animal Planet HD">
-    <title lang="pt">Planeta Terra</title>
-    <desc lang="pt">Este episódio explica os fatores geológicos envolvidos na formação das forças vulcânicas que moldaram a terra e suas cadeias de montanhas(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412000500 -0300" stop="20180412005500 -0300" channel="Animal Planet HD">
-    <title lang="pt">Com Água Até o Pescoço</title>
-    <desc lang="pt">O San Francisco Giants contrata a ATM para trazer McCovey Cove para o campo de beisebol. O time de beisebol precisa de um aquário grande o suficiente para impressionar todos os seus leais torcedores(n)</desc>
-    <credits>
-      <director>Cyndi Haas</director>
-      <actor>Frankie DiLuzio</actor>
-      <actor>Wayde King</actor>
-      <actor>Brett Raymer</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412005500 -0300" stop="20180412014500 -0300" channel="Animal Planet HD">
-    <title lang="pt">Com Água Até o Pescoço</title>
-    <desc lang="pt">Wayde e Brett são abordados pelo famoso pintor de vida marinha Guy Harvey para construir seu maior aquário para o resort Trade Winds, em Saint Pete Beach, na Flórida(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412014500 -0300" stop="20180412023500 -0300" channel="Animal Planet HD">
-    <title lang="pt">Bahama Selvagem</title>
-    <desc lang="pt">Mais do que um emaranhado de raízes crescendo em um pântano lamacento, os mangues são berçários da vida marinha nas Bahamas(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412023500 -0300" stop="20180412032500 -0300" channel="Animal Planet HD">
-    <title lang="pt">África</title>
-    <desc lang="pt">A floresta tropical do Congo, no coração da África, é um habitat pulsante e cheio de vida. Do meio da floresta às margens do Oceano Atlântico, cada um tem que brigar por seu espaço(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412032500 -0300" stop="20180412041200 -0300" channel="Animal Planet HD">
-    <title lang="pt">Planeta Terra</title>
-    <desc lang="pt">Este episódio explica os fatores geológicos envolvidos na formação das forças vulcânicas que moldaram a terra e suas cadeias de montanhas(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412041200 -0300" stop="20180412050200 -0300" channel="Animal Planet HD">
-    <title lang="pt">Planeta Terra</title>
-    <desc lang="pt">Este episódio explica os fatores geológicos envolvidos na formação das forças vulcânicas que moldaram a terra e suas cadeias de montanhas(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412050200 -0300" stop="20180412055400 -0300" channel="Animal Planet HD">
-    <title lang="pt">Jeff Corwin em Ação</title>
-    <desc lang="pt">Madagascar é uma ilha cujas plantas e animais evoluíram por mais de 150 milhões de anos. Nestas florestas tropicais primitivas, Jeff descobre animais exóticos(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412055400 -0300" stop="20180412064500 -0300" channel="Animal Planet HD">
-    <title lang="pt">Pit bulls e Condenados</title>
-    <desc lang="pt">Um vira-lata fica preso em um pântano; Tia acolhe dois filhotes doentes de um dono sobrecarregado; um dos moradores favoritos de Villalobos finalmente tem a chance de ter um lar definitivo(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412064500 -0300" stop="20180412073600 -0300" channel="Animal Planet HD">
-    <title lang="pt">Justiça Animal</title>
-    <desc lang="pt">Agentes do Departamento de Pesca e Vida Selvagem de Washington prendem dois criminosos perigos; um fugitivo é capturado; um agente entra em ação ao presenciar um acidente de carro(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412073600 -0300" stop="20180412082700 -0300" channel="Animal Planet HD">
-    <title lang="pt">Pit bulls e Condenados</title>
-    <desc lang="pt">Tia tenta resgatar um pitbull assustado, abandonado pelos donos em uma casa vazia. Acompanhada da filha, uma mulher de Oklahoma chega a Nova Orleans em busca de um amigo fiel(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412082700 -0300" stop="20180412091800 -0300" channel="Animal Planet HD">
-    <title lang="pt">Com Água Até o Pescoço</title>
-    <desc lang="pt">O cliente favorito da ATM, o astro da NBA Shaquille O’Neal, decide encomendar um segundo aquário para Brett e Waide. Eles constroem um aquário inspirado no Egito - e digno de um faraó(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412091800 -0300" stop="20180412100900 -0300" channel="Animal Planet HD">
-    <title lang="pt">Encontros Ferozes</title>
-    <desc lang="pt">O zoologista Steve Backshall fica cara a cara com os animais mais mortais do planeta e as pessoas que vivem ao lado deles(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412100900 -0300" stop="20180412110000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Justiça Animal</title>
-    <desc lang="pt">Agentes do Departamento de Pesca e Vida Selvagem de Washington prendem dois criminosos perigos; um fugitivo é capturado; um agente entra em ação ao presenciar um acidente de carro(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412110000 -0300" stop="20180412115100 -0300" channel="Animal Planet HD">
-    <title lang="pt">Pit bulls e Condenados</title>
-    <desc lang="pt">Tia tenta resgatar um pitbull assustado, abandonado pelos donos em uma casa vazia. Acompanhada da filha, uma mulher de Oklahoma chega a Nova Orleans em busca de um amigo fiel(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412115100 -0300" stop="20180412122100 -0300" channel="Animal Planet HD">
-    <title lang="pt">Pântano Perigoso</title>
-    <desc lang="pt">Robbie e Stephen tentam capturar e sedar porcos gigantes para um tratamento. Robbie retira um crocodilo de uma área de nado(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412122100 -0300" stop="20180412132100 -0300" channel="Animal Planet HD">
-    <title lang="pt">Com Água Até o Pescoço</title>
-    <desc lang="pt">O cliente favorito da ATM, o astro da NBA Shaquille O’Neal, decide encomendar um segundo aquário para Brett e Waide. Eles constroem um aquário inspirado no Egito - e digno de um faraó(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412132100 -0300" stop="20180412141200 -0300" channel="Animal Planet HD">
-    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan</title>
-    <desc lang="pt">Dominic chega à Costa Rica, que abriga mais de meio milhão de espécies de animais, incluindo uma rã do tamanho de uma unha, incrivelmente bonita e extremamente ameaçada(n)</desc>
-    <credits>
-      <director>null</director>
-      <actor>Dominic Monaghan</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>5.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412141200 -0300" stop="20180412150300 -0300" channel="Animal Planet HD">
-    <title lang="pt">Planeta Mutante</title>
-    <desc lang="pt">Às margens dos lagos do Vale do Rift, na África, um bando de chimpanzés oferece um incrível contraponto evolucionário à incrível história dos peixes pequenos que vivem abaixo da superfície, um fenômeno único no planeta(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412150300 -0300" stop="20180412155400 -0300" channel="Animal Planet HD">
-    <title lang="pt">Planeta Mutante</title>
-    <desc lang="pt">Madagascar é a terra dos lêmures, uma antiga família de primatas que evoluiu de um único grupo que chegou à ilha há mais de 60 milhões de anos. Para eles, a ilha foi uma oportunidade evolucionária(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412155400 -0300" stop="20180412164500 -0300" channel="Animal Planet HD">
-    <title lang="pt">Planeta Mutante</title>
-    <desc lang="pt">Isolados do continente asiático, os animais do Japão foram obrigados a sobreviver às ilhas com maior atividade vulcânica da Terra e enfrentar um clima extremo. Os animais precisam encontrar formas de superar os períodos de fome(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412164500 -0300" stop="20180412173600 -0300" channel="Animal Planet HD">
-    <title lang="pt">Encontros Ferozes</title>
-    <desc lang="pt">Steve viaja para o México, que descreve como um de seus lugares favoritos para procurar animais selvagens. É um país enorme e fascinante, com muitos ambientes naturais intocados(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412173600 -0300" stop="20180412183000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan</title>
-    <desc lang="pt">Dom está na África do Sul em busca dos felinos mais raros do mundo: os leões brancos de Timbavati. Como existem apenas 13 em estado selvagem, é uma oportunidade realmente única(n)</desc>
-    <credits>
-      <director>null</director>
-      <actor>Dominic Monaghan</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412183000 -0300" stop="20180412190000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Terra Brasil</title>
-    <desc lang="pt">Anderson e Aruay caminham pela mata da maior reserva privada de Mata Atlântica do Brasil, o Legado das Águas e chegam até o cenário exuberante da cachoeira de Dezembro(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412190000 -0300" stop="20180412195000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Aventura Selvagem</title>
-    <desc lang="pt">Nesta série, o apresentador Richard Rasmussen mistura aventura e diversão enquanto viaja para os mais variados locais e biomas, dentro e fora do Brasil, para mostrar a flora e a fauna locais(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412195000 -0300" stop="20180412204000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Bahama Selvagem</title>
-    <desc lang="pt">Oculto sob a superfície do arquipélago das Bahamas, existe um mundo mágico de milhões de anos de idade(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412204000 -0300" stop="20180412213000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Animais Mortais Da Austrália</title>
-    <desc lang="pt">Conheça os 72 animais mais perigosos da Austrália neste documentário envolvente(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412213000 -0300" stop="20180412222000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Aventuras na Semana do Tubarão</title>
-    <desc lang="pt">Neste especial da Semana do Tubarão, você vai se divertir com façanhas, dados curiosos e a ciência inovadora que estuda os tubarões com a ajuda dos mais ousados especialistas no assunto(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412222000 -0300" stop="20180412231000 -0300" channel="Animal Planet HD">
-    <title lang="pt">Lobos Assassinos</title>
-    <desc lang="pt">Os moradores da aldeia de Verhoyansk estão lutando por suas vidas contra um grupo de 400 lobos. O que pode ser feito para parar esses superlobos?(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180412231000 -0300" stop="20180413000500 -0300" channel="Animal Planet HD">
-    <title lang="pt">Felinos Sangrentos</title>
-    <desc lang="pt">Um elemento patogênico parece se espalhar pelo planeta dando aos grandes felinos uma sede de sangue humano. Leões, tigres e leopardos atacam com mais frequência e um vírus pode ser o motivo(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411003000 -0300" stop="20180411013000 -0300" channel="HISTORY">
-    <title lang="pt">Desafio Sob Fogo - S1E10</title>
-    <desc lang="pt">Após a primeira rodada, onde os ferreiros trabalharam com quatro tipos de metal diferentes, os ganhadores terão a missão de fabricar uma das armas mais letais da história militar: o Kukri Nepalês(n)</desc>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411013000 -0300" stop="20180411023000 -0300" channel="HISTORY">
-    <title lang="pt">Desafio Sob Fogo - S3E5</title>
-    <desc lang="pt">Quatro novos participantes tentarão não ceder sob pressão. Os finalistas terão a difícil tarefa de confeccionar uma espada Kora, uma arma capaz de cortar uma ovelha pela metade com um só golpe(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411023000 -0300" stop="20180411030000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito - S13E285</title>
-    <desc lang="pt">Entre na luta com o pessoal da Pawn Stars quando Rick examina uma espada alemã para usar com as duas mãos, criada no início dos século XVI. Em seguida, Corey acerta na mosca quando um jogo de figurinhas de beisebal de 1933 aparecem na loja(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411030000 -0300" stop="20180411034500 -0300" channel="HISTORY">
-    <title lang="pt">Contato Extraterrestre - S1E7</title>
-    <desc lang="pt">Vários objetos são vistos no México, caindo em Puebla, e aparentemente não são aviões. Além disso, a dúvida cresce na fronteira entre Argentina e Bolívia(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411034500 -0300" stop="20180411043000 -0300" channel="HISTORY">
-    <title lang="pt">Super Humanos E5</title>
-    <desc lang="pt">Viajaremos com Tusam ao Brasil para conhecer o recordista em supervelocidade, Luigi Cani. Na Argentina, vamos descobrir um vidente que consegue ver através do super radar dos seus sentidos(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411043000 -0300" stop="20180411045200 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito - S13E285</title>
-    <desc lang="pt">Entre na luta com o pessoal da Pawn Stars quando Rick examina uma espada alemã para usar com as duas mãos, criada no início dos século XVI. Em seguida, Corey acerta na mosca quando um jogo de figurinhas de beisebal de 1933 aparecem na loja(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411045200 -0300" stop="20180411051500 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito - S14E306</title>
-    <desc lang="pt">O pessoal tenta fazer uma cesta quando um par de tênis do lendário Doctor J da NBA aparece na loja. E você vai ver uma moeda Meia Águia, rara, da Guerra Civil que voa pela loja adentro(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411051500 -0300" stop="20180411060000 -0300" channel="HISTORY">
-    <title lang="pt">Desafio Sob Fogo - S3E5</title>
-    <desc lang="pt">Quatro novos participantes tentarão não ceder sob pressão. Os finalistas terão a difícil tarefa de confeccionar uma espada Kora, uma arma capaz de cortar uma ovelha pela metade com um só golpe(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411060000 -0300" stop="20180411064500 -0300" channel="HISTORY">
-    <title lang="pt">Contato Extraterrestre - S1E7</title>
-    <desc lang="pt">Vários objetos são vistos no México, caindo em Puebla, e aparentemente não são aviões. Além disso, a dúvida cresce na fronteira entre Argentina e Bolívia(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411064500 -0300" stop="20180411073000 -0300" channel="HISTORY">
-    <title lang="pt">Super Humanos E5</title>
-    <desc lang="pt">Viajaremos com Tusam ao Brasil para conhecer o recordista em supervelocidade, Luigi Cani. Na Argentina, vamos descobrir um vidente que consegue ver através do super radar dos seus sentidos(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411073000 -0300" stop="20180411081500 -0300" channel="HISTORY">
-    <title lang="pt">Desafio Sob Fogo - S3E5</title>
-    <desc lang="pt">Quatro novos participantes tentarão não ceder sob pressão. Os finalistas terão a difícil tarefa de confeccionar uma espada Kora, uma arma capaz de cortar uma ovelha pela metade com um só golpe(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411081500 -0300" stop="20180411090000 -0300" channel="HISTORY">
-    <title lang="pt">Desafio Sob Fogo - S4E56</title>
-    <desc lang="pt">Como forjar uma arma sem saber a que prova será submetido? Esse é o desafio que deverão enfrentar os ferreiros neste episódio(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411090000 -0300" stop="20180411094500 -0300" channel="HISTORY">
-    <title lang="pt">Desafio Sob Fogo - S4E55</title>
-    <desc lang="pt">Os ferreiros são levados ao limite ao ter de usar pequenos pedaços de aço e forjas torcidas em seus desafios. Quem irá sobreviver?(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411094500 -0300" stop="20180411103000 -0300" channel="HISTORY">
-    <title lang="pt">Homens e Armas - S1E2</title>
-    <desc lang="pt">A Índia é um dos berços da civilização e deu à luz a algumas das armas mais fascinantes e letais conhecidas pelo homem(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411103000 -0300" stop="20180411110000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito - S14E306</title>
-    <desc lang="pt">O pessoal tenta fazer uma cesta quando um par de tênis do lendário Doctor J da NBA aparece na loja. E você vai ver uma moeda Meia Águia, rara, da Guerra Civil que voa pela loja adentro(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411110000 -0300" stop="20180411120000 -0300" channel="HISTORY">
-    <title lang="pt">Homens e Armas - S1E1</title>
-    <desc lang="pt">China, a terra do Kung Fu, deu origem a algumas das armas mais diabólicas conhecidas pelo homem. Quais foram as melhores?(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411120000 -0300" stop="20180411130000 -0300" channel="HISTORY">
-    <title lang="pt">Contato Extraterrestre - S1E7</title>
-    <desc lang="pt">Vários objetos são vistos no México, caindo em Puebla, e aparentemente não são aviões. Além disso, a dúvida cresce na fronteira entre Argentina e Bolívia(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411130000 -0300" stop="20180411140000 -0300" channel="HISTORY">
-    <title lang="pt">Super Humanos E5</title>
-    <desc lang="pt">Viajaremos com Tusam ao Brasil para conhecer o recordista em supervelocidade, Luigi Cani. Na Argentina, vamos descobrir um vidente que consegue ver através do super radar dos seus sentidos(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411140000 -0300" stop="20180411150000 -0300" channel="HISTORY">
-    <title lang="pt">Desafio Sob Fogo - S4E56</title>
-    <desc lang="pt">Como forjar uma arma sem saber a que prova será submetido? Esse é o desafio que deverão enfrentar os ferreiros neste episódio(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411150000 -0300" stop="20180411160000 -0300" channel="HISTORY">
-    <title lang="pt">Desafio Sob Fogo - S4E55</title>
-    <desc lang="pt">Os ferreiros são levados ao limite ao ter de usar pequenos pedaços de aço e forjas torcidas em seus desafios. Quem irá sobreviver?(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411160000 -0300" stop="20180411170000 -0300" channel="HISTORY">
-    <title lang="pt">Homens e Armas - S1E2</title>
-    <desc lang="pt">A Índia é um dos berços da civilização e deu à luz a algumas das armas mais fascinantes e letais conhecidas pelo homem(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411170000 -0300" stop="20180411180000 -0300" channel="HISTORY">
-    <title lang="pt">Homens e Armas - S1E1</title>
-    <desc lang="pt">China, a terra do Kung Fu, deu origem a algumas das armas mais diabólicas conhecidas pelo homem. Quais foram as melhores?(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411180000 -0300" stop="20180411183000 -0300" channel="HISTORY">
-    <title lang="pt">A Cara do Futuro - S1E2</title>
-    <desc lang="pt">Confira neste episódio, como vão ser os transportes no futuro!(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
+  <programme start="20180508050000 -0300" stop="20180508060000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Sport x Bahia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180508060000 -0300" stop="20180508070000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Flamengo x Internacional</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
     <country>Brasil</country>
   </programme>
-  <programme start="20180411183000 -0300" stop="20180411190000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito - S18E429</title>
-    <desc lang="pt">Uma bíblia lunar do Apollo 14 chega ao Trato Feito e Rick a quer para a loja. Corey recebe uma genial pistola desintegradora de Buck Rogers de 1930, será que a conseguirá comprar?(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
+  <programme start="20180508070000 -0300" stop="20180508080000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Vasco x América MG</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
   </programme>
-  <programme start="20180411190000 -0300" stop="20180411193000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito E140</title>
-    <desc lang="pt">As estrelas do penhor sentem seu espírito voar alto quando um cara traz à loja um boneco raro de Charles Lindbergh de 1920. Depois, a loja torna-se um verdadeiro show de horrores(n)</desc>
-    <date>2010</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
+  <programme start="20180508080000 -0300" stop="20180508141000 -0300" channel="SporTV 2">
+    <title lang="pt">MSI - LOL - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20180411193000 -0300" stop="20180411200000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito: Aprendizagem E139</title>
-    <desc lang="pt">Os rapazes voltam à escola, quando uma primeira edição do romance "Walden" de Henry David Thoreau aparece na loja. Em seguida, Corey concentra sua atenção em uma arma de corda do século 19, utilizada em navios para atirar cordas a longas distâncias(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
+  <programme start="20180508141000 -0300" stop="20180508142000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20180411200000 -0300" stop="20180411203000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito E137</title>
-    <desc lang="pt">Os rapazes ficam em guarda quando uma arma rara de cano triplo - uma combinação de rifle e espingarda feita por armeiros europeus famosos - abre caminho na loja(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411203000 -0300" stop="20180411210000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito E138</title>
-    <desc lang="pt">As nossas estrelas do penhor tentam manter o foco quando uma fotografia de edição limitada de Albert Einstein, capa da revista Time, chega à loja(n)</desc>
-    <date>2010</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411210000 -0300" stop="20180411214500 -0300" channel="HISTORY">
-    <title lang="pt">O Sócio - S5E2</title>
-    <desc lang="pt">"O Sócio" deve salvar uma empresa de casas pequenas com mais de 1 milhão de dólares em dívidas. Conseguirá mudar a cabeça do dono?(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411214500 -0300" stop="20180411224000 -0300" channel="HISTORY">
-    <title lang="pt">O Sócio - S5E3</title>
-    <desc lang="pt">Marcus tenta ajudar uma empresa de jeans a entrar na linha. Para isso, seus sócios terão de ter mente aberta para novas ideias(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411224000 -0300" stop="20180411233500 -0300" channel="HISTORY">
-    <title lang="pt">Alienígenas do Passado - S9E112</title>
-    <desc lang="pt">Teóricos sugerem que visitantes de outros mundos são anteriores à criação da Rússia, e apontam para a ex-colônia em Arkaim como prova, onde sítios megalíticos seculares estão orientados ao longo das linhas astronômicas(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411233500 -0300" stop="20180412003000 -0300" channel="HISTORY">
-    <title lang="pt">Caçando Hitler - S3</title>
-    <desc lang="pt">O que realmente aconteceu com Adolf Hitler após a Segunda Guerra Mundial? Bob Baer e sua equipe tentam descobrir ao longo desta série(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412003000 -0300" stop="20180412010000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito E140</title>
-    <desc lang="pt">As estrelas do penhor sentem seu espírito voar alto quando um cara traz à loja um boneco raro de Charles Lindbergh de 1920. Depois, a loja torna-se um verdadeiro show de horrores(n)</desc>
-    <date>2010</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412010000 -0300" stop="20180412013000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito: Aprendizagem E139</title>
-    <desc lang="pt">Os rapazes voltam à escola, quando uma primeira edição do romance "Walden" de Henry David Thoreau aparece na loja. Em seguida, Corey concentra sua atenção em uma arma de corda do século 19, utilizada em navios para atirar cordas a longas distâncias(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412013000 -0300" stop="20180412020000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito E137</title>
-    <desc lang="pt">Os rapazes ficam em guarda quando uma arma rara de cano triplo - uma combinação de rifle e espingarda feita por armeiros europeus famosos - abre caminho na loja(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412020000 -0300" stop="20180412023000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito E138</title>
-    <desc lang="pt">As nossas estrelas do penhor tentam manter o foco quando uma fotografia de edição limitada de Albert Einstein, capa da revista Time, chega à loja(n)</desc>
-    <date>2010</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412023000 -0300" stop="20180412030000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito - S18E429</title>
-    <desc lang="pt">Uma bíblia lunar do Apollo 14 chega ao Trato Feito e Rick a quer para a loja. Corey recebe uma genial pistola desintegradora de Buck Rogers de 1930, será que a conseguirá comprar?(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412030000 -0300" stop="20180412034500 -0300" channel="HISTORY">
-    <title lang="pt">Decifrando Milagres E5</title>
-    <desc lang="pt">Na Cidade do México, Juan del Bosque diz ter os estigmas de Cristo em suas mãos e por causa deles pode curar as pessoas. A Ciência duvida se as marcas são realmente sagradas ou simplesmente autoinfligidas(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412034500 -0300" stop="20180412043000 -0300" channel="HISTORY">
-    <title lang="pt">A Igreja Oculta E5</title>
-    <desc lang="pt">Jesus se misturou entre homens para passar uma mensagem. Cada ato seu, desde a sua concepção até o dia de sua crucificação teve um significado, e ao longo dos séculos a Igreja tem sido o centro de uma luta para ser a única intérprete dessa palavra(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412043000 -0300" stop="20180412045200 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito E140</title>
-    <desc lang="pt">As estrelas do penhor sentem seu espírito voar alto quando um cara traz à loja um boneco raro de Charles Lindbergh de 1920. Depois, a loja torna-se um verdadeiro show de horrores(n)</desc>
-    <date>2010</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412045200 -0300" stop="20180412051500 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito: Aprendizagem E139</title>
-    <desc lang="pt">Os rapazes voltam à escola, quando uma primeira edição do romance "Walden" de Henry David Thoreau aparece na loja. Em seguida, Corey concentra sua atenção em uma arma de corda do século 19, utilizada em navios para atirar cordas a longas distâncias(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412051500 -0300" stop="20180412053700 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito E137</title>
-    <desc lang="pt">Os rapazes ficam em guarda quando uma arma rara de cano triplo - uma combinação de rifle e espingarda feita por armeiros europeus famosos - abre caminho na loja(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412053700 -0300" stop="20180412060000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito E138</title>
-    <desc lang="pt">As nossas estrelas do penhor tentam manter o foco quando uma fotografia de edição limitada de Albert Einstein, capa da revista Time, chega à loja(n)</desc>
-    <date>2010</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412060000 -0300" stop="20180412064500 -0300" channel="HISTORY">
-    <title lang="pt">Decifrando Milagres E5</title>
-    <desc lang="pt">Na Cidade do México, Juan del Bosque diz ter os estigmas de Cristo em suas mãos e por causa deles pode curar as pessoas. A Ciência duvida se as marcas são realmente sagradas ou simplesmente autoinfligidas(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412064500 -0300" stop="20180412073000 -0300" channel="HISTORY">
-    <title lang="pt">A Igreja Oculta E5</title>
-    <desc lang="pt">Jesus se misturou entre homens para passar uma mensagem. Cada ato seu, desde a sua concepção até o dia de sua crucificação teve um significado, e ao longo dos séculos a Igreja tem sido o centro de uma luta para ser a única intérprete dessa palavra(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412073000 -0300" stop="20180412075200 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito E137</title>
-    <desc lang="pt">Os rapazes ficam em guarda quando uma arma rara de cano triplo - uma combinação de rifle e espingarda feita por armeiros europeus famosos - abre caminho na loja(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412075200 -0300" stop="20180412081500 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito E138</title>
-    <desc lang="pt">As nossas estrelas do penhor tentam manter o foco quando uma fotografia de edição limitada de Albert Einstein, capa da revista Time, chega à loja(n)</desc>
-    <date>2010</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412081500 -0300" stop="20180412090000 -0300" channel="HISTORY">
-    <title lang="pt">O Sócio - S5E2</title>
-    <desc lang="pt">"O Sócio" deve salvar uma empresa de casas pequenas com mais de 1 milhão de dólares em dívidas. Conseguirá mudar a cabeça do dono?(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412090000 -0300" stop="20180412094500 -0300" channel="HISTORY">
-    <title lang="pt">O Sócio - S5E3</title>
-    <desc lang="pt">Marcus tenta ajudar uma empresa de jeans a entrar na linha. Para isso, seus sócios terão de ter mente aberta para novas ideias(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412094500 -0300" stop="20180412103000 -0300" channel="HISTORY">
-    <title lang="pt">Alienígenas do Passado - S9E112</title>
-    <desc lang="pt">Teóricos sugerem que visitantes de outros mundos são anteriores à criação da Rússia, e apontam para a ex-colônia em Arkaim como prova, onde sítios megalíticos seculares estão orientados ao longo das linhas astronômicas(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412103000 -0300" stop="20180412110000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito - S18E429</title>
-    <desc lang="pt">Uma bíblia lunar do Apollo 14 chega ao Trato Feito e Rick a quer para a loja. Corey recebe uma genial pistola desintegradora de Buck Rogers de 1930, será que a conseguirá comprar?(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412110000 -0300" stop="20180412120000 -0300" channel="HISTORY">
-    <title lang="pt">Caçando Hitler - S3</title>
-    <desc lang="pt">O que realmente aconteceu com Adolf Hitler após a Segunda Guerra Mundial? Bob Baer e sua equipe tentam descobrir ao longo desta série(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412120000 -0300" stop="20180412130000 -0300" channel="HISTORY">
-    <title lang="pt">Decifrando Milagres E5</title>
-    <desc lang="pt">Na Cidade do México, Juan del Bosque diz ter os estigmas de Cristo em suas mãos e por causa deles pode curar as pessoas. A Ciência duvida se as marcas são realmente sagradas ou simplesmente autoinfligidas(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412130000 -0300" stop="20180412140000 -0300" channel="HISTORY">
-    <title lang="pt">A Igreja Oculta E5</title>
-    <desc lang="pt">Jesus se misturou entre homens para passar uma mensagem. Cada ato seu, desde a sua concepção até o dia de sua crucificação teve um significado, e ao longo dos séculos a Igreja tem sido o centro de uma luta para ser a única intérprete dessa palavra(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412140000 -0300" stop="20180412150000 -0300" channel="HISTORY">
-    <title lang="pt">O Sócio - S5E2</title>
-    <desc lang="pt">"O Sócio" deve salvar uma empresa de casas pequenas com mais de 1 milhão de dólares em dívidas. Conseguirá mudar a cabeça do dono?(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412150000 -0300" stop="20180412160000 -0300" channel="HISTORY">
-    <title lang="pt">O Sócio - S5E3</title>
-    <desc lang="pt">Marcus tenta ajudar uma empresa de jeans a entrar na linha. Para isso, seus sócios terão de ter mente aberta para novas ideias(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412160000 -0300" stop="20180412170000 -0300" channel="HISTORY">
-    <title lang="pt">Alienígenas do Passado - S9E112</title>
-    <desc lang="pt">Teóricos sugerem que visitantes de outros mundos são anteriores à criação da Rússia, e apontam para a ex-colônia em Arkaim como prova, onde sítios megalíticos seculares estão orientados ao longo das linhas astronômicas(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412170000 -0300" stop="20180412180000 -0300" channel="HISTORY">
-    <title lang="pt">Caçando Hitler - S3</title>
-    <desc lang="pt">O que realmente aconteceu com Adolf Hitler após a Segunda Guerra Mundial? Bob Baer e sua equipe tentam descobrir ao longo desta série(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412180000 -0300" stop="20180412190000 -0300" channel="HISTORY">
-    <title lang="pt">Guia Politicamente Incorreto E3</title>
-    <desc lang="pt">O Brasil é racista? A escravidão do Brasil foi "frouxa"? Zumbi dos Palmares, o maior herói negro do Brasil vai ter sua vida retratada como você não lê nos livros escolares. Vamos jogar luz sobre o período mais sombrio da nossa história(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
+  <programme start="20180508142000 -0300" stop="20180508152000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Flamengo x Internacional</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
     <country>Brasil</country>
   </programme>
-  <programme start="20180412190000 -0300" stop="20180412193000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito: Um Livro de Colecionador E107</title>
-    <desc lang="pt">Os rapazes quase perdem as calças quando chega à loja a fivela de um cinto da Guerra Civil. E depois, um homem entra com a esperança de vender seu exemplar da primeira edição do livro de Ernest Hemingway: "Por Quem os Sinos Dobram"(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
+  <programme start="20180508152000 -0300" stop="20180508153000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20180412193000 -0300" stop="20180412200000 -0300" channel="HISTORY">
-    <title lang="pt">Trato Feito: Pacificador E100</title>
-    <desc lang="pt">Uma Colt 45 "Pacificadora", de 1890, vai dar um passeio pela loja. Então, Rick vai conhecer um homem que veio até eles com a esperança de vender suas fotos de um Zero japonês, abatido no Alasca durante a Segunda Guerra Mundial(n)</desc>
-    <date>2010</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412200000 -0300" stop="20180412210000 -0300" channel="HISTORY">
-    <title lang="pt">Desafio Sob Fogo - S1E2</title>
-    <desc lang="pt">Após uma primeira e árdua prova, os ferreiros vencedores terão cinco dias para forjar a lendária Espada das Cruzadas. Com suas espadas de guerra em mãos, terão de enfrentar-se em um feroz combate medieval e apenas um deles será coroado o vencedor(n)</desc>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412210000 -0300" stop="20180412214500 -0300" channel="HISTORY">
-    <title lang="pt">Desafio Sob Fogo - S4E62</title>
-    <desc lang="pt">Quatro concorrentes corajosos devem ressuscitar espadas velhas e forjá-las em uma faca Viking, usando a forja de carvão testada no tempo(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412214500 -0300" stop="20180412224000 -0300" channel="HISTORY">
-    <title lang="pt">Desafio Sob Fogo - S3E5</title>
-    <desc lang="pt">Quatro novos participantes tentarão não ceder sob pressão. Os finalistas terão a difícil tarefa de confeccionar uma espada Kora, uma arma capaz de cortar uma ovelha pela metade com um só golpe(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412224000 -0300" stop="20180412233500 -0300" channel="HISTORY">
-    <title lang="pt">Knightfall - A Guerra do Santo Graal - S1E8</title>
-    <desc lang="pt">Em Paris, o Templo dos Templários está cercado. De Nogaret semeia a dúvida no Rei Philip e a Rainha Joan decide o que fazer com Navarra(n)</desc>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Aventura</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412233500 -0300" stop="20180413003000 -0300" channel="HISTORY">
-    <title lang="pt">Desafio Sob Fogo - S1E6</title>
-    <desc lang="pt">Os ferreiros devem forjar o célebre Estoque, uma espada antiga tão pontiaguda que pode matar com um só golpe(n)</desc>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411000000 -0300" stop="20180411010000 -0300" channel="H2">
-    <title lang="pt">Humanidade: A História de Todos Nós - S1E7</title>
-    <desc lang="pt">Os astecas construíram um poderoso império que dominou a América Central, mas que vai ser destruído pelo efeito dominó. A 7000 milhas de distância, na Turquia moderna, o grande centro de comércio de Constantinopla(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411010000 -0300" stop="20180411020000 -0300" channel="H2">
-    <title lang="pt">Mundos Perdidos E9</title>
-    <desc lang="pt">Em 1939, iniciou-se o desenvolvimento de cidades secretas e instalações nucleares em solo americano. Acompanhe especialistas e investigue estes lugares ocultos no Tennessee, Novo México e Washington(n)</desc>
-    <date>2006</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411020000 -0300" stop="20180411030000 -0300" channel="H2">
-    <title lang="pt">Assassinos Lendários - S1E3</title>
-    <desc lang="pt">Quando os manchús invadiram a China, Ng Mui se refugiou em um mosteiro de freiras shaolin para aprender Kung Fu e lutar pela sua nação(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180411030000 -0300" stop="20180411034500 -0300" channel="H2">
-    <title lang="pt">Assassinos Lendários - S1E4</title>
-    <desc lang="pt">Ano de 1183. O clã Minamoto derrota os Taira na guerra pelo poder no Japão. O que ninguém sabia era que seu melhor samurai era uma mulher(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180411034500 -0300" stop="20180411051500 -0300" channel="H2">
-    <title lang="pt">Super-Heróis Decifrados E1</title>
-    <desc lang="pt">Super-Homem, Batman, Capitão América, Mulher Maravilha, Homem-Aranha e outros mais, formam a base do super-herói moderno. Desde a sua criação, estes ícones sobreviveram a décadas de guerra, triunfos e escândalos, evoluindo constantemente(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411051500 -0300" stop="20180411060000 -0300" channel="H2">
-    <title lang="pt">Humanidade: A História de Todos Nós - S1E7</title>
-    <desc lang="pt">Os astecas construíram um poderoso império que dominou a América Central, mas que vai ser destruído pelo efeito dominó. A 7000 milhas de distância, na Turquia moderna, o grande centro de comércio de Constantinopla(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411060000 -0300" stop="20180411064500 -0300" channel="H2">
-    <title lang="pt">Mundos Perdidos E9</title>
-    <desc lang="pt">Em 1939, iniciou-se o desenvolvimento de cidades secretas e instalações nucleares em solo americano. Acompanhe especialistas e investigue estes lugares ocultos no Tennessee, Novo México e Washington(n)</desc>
-    <date>2006</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411064500 -0300" stop="20180411073000 -0300" channel="H2">
-    <title lang="pt">Humanidade: A História de Todos Nós - S1E7</title>
-    <desc lang="pt">Os astecas construíram um poderoso império que dominou a América Central, mas que vai ser destruído pelo efeito dominó. A 7000 milhas de distância, na Turquia moderna, o grande centro de comércio de Constantinopla(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411073000 -0300" stop="20180411090000 -0300" channel="H2">
-    <title lang="pt">Super-Heróis Decifrados E1</title>
-    <desc lang="pt">Super-Homem, Batman, Capitão América, Mulher Maravilha, Homem-Aranha e outros mais, formam a base do super-herói moderno. Desde a sua criação, estes ícones sobreviveram a décadas de guerra, triunfos e escândalos, evoluindo constantemente(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411090000 -0300" stop="20180411094500 -0300" channel="H2">
-    <title lang="pt">Assassinos Lendários - S1E3</title>
-    <desc lang="pt">Quando os manchús invadiram a China, Ng Mui se refugiou em um mosteiro de freiras shaolin para aprender Kung Fu e lutar pela sua nação(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180411094500 -0300" stop="20180411103000 -0300" channel="H2">
-    <title lang="pt">Assassinos Lendários - S1E4</title>
-    <desc lang="pt">Ano de 1183. O clã Minamoto derrota os Taira na guerra pelo poder no Japão. O que ninguém sabia era que seu melhor samurai era uma mulher(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180411103000 -0300" stop="20180411110000 -0300" channel="H2">
-    <title lang="pt">A Ferro e Fogo - S1E6</title>
-    <desc lang="pt">O novo desafio de Daniel é fazer um rifle do século 18 ao estilo da Carolina do Norte, mas deve provar a sua precisão disparando em um alvo quase impossível. Sua reputação está em jogo(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411110000 -0300" stop="20180411120000 -0300" channel="H2">
-    <title lang="pt">Mundos Perdidos E9</title>
-    <desc lang="pt">Em 1939, iniciou-se o desenvolvimento de cidades secretas e instalações nucleares em solo americano. Acompanhe especialistas e investigue estes lugares ocultos no Tennessee, Novo México e Washington(n)</desc>
-    <date>2006</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411120000 -0300" stop="20180411123000 -0300" channel="H2">
-    <title lang="pt">A Ferro e Fogo - S1E7</title>
-    <desc lang="pt">Conseguirá Daniel criar uma arma poderosa com materiais reciclados? Mas primeiro ele deve ajudar um amigo com uma tarefa que poderia custar-lhe a vida: retirar uma bala presa dentro de um rifle(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411123000 -0300" stop="20180411130000 -0300" channel="H2">
-    <title lang="pt">A Ferro e Fogo - S1E8</title>
-    <desc lang="pt">Daniel tem um cliente muito peculiar que quer um rifle de percussão do século 19, mas enquanto ele o faz, participará em um concurso de pesca com seus amigos(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411130000 -0300" stop="20180411140000 -0300" channel="H2">
-    <title lang="pt">Assassinos Lendários - S1E3</title>
-    <desc lang="pt">Quando os manchús invadiram a China, Ng Mui se refugiou em um mosteiro de freiras shaolin para aprender Kung Fu e lutar pela sua nação(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180411140000 -0300" stop="20180411150000 -0300" channel="H2">
-    <title lang="pt">Assassinos Lendários - S1E4</title>
-    <desc lang="pt">Ano de 1183. O clã Minamoto derrota os Taira na guerra pelo poder no Japão. O que ninguém sabia era que seu melhor samurai era uma mulher(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180411150000 -0300" stop="20180411170000 -0300" channel="H2">
-    <title lang="pt">Super-Heróis Decifrados E1</title>
-    <desc lang="pt">Super-Homem, Batman, Capitão América, Mulher Maravilha, Homem-Aranha e outros mais, formam a base do super-herói moderno. Desde a sua criação, estes ícones sobreviveram a décadas de guerra, triunfos e escândalos, evoluindo constantemente(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411170000 -0300" stop="20180411173000 -0300" channel="H2">
-    <title lang="pt">A Ferro e Fogo - S1E7</title>
-    <desc lang="pt">Conseguirá Daniel criar uma arma poderosa com materiais reciclados? Mas primeiro ele deve ajudar um amigo com uma tarefa que poderia custar-lhe a vida: retirar uma bala presa dentro de um rifle(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411173000 -0300" stop="20180411181500 -0300" channel="H2">
-    <title lang="pt">Humanidade: A História de Todos Nós E8</title>
-    <desc lang="pt">Nos Andes, os espanhois abrem a maior mina de prata do mundo, e cunham milhões de "pesos de ocho", o dólar espanhol. Estas moedas transformam a economia global, enchem os baús dos piratas de tesouros(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180411181500 -0300" stop="20180411183700 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E2</title>
-    <desc lang="pt">Neste episódio, vamos conhecer a mais nova tecnologia que nos mantém protegidos dos tornados; as panelas de cozinha mais inteligentes; a invenção do primeiro sintetizador de música; e a bateria que durará para sempre(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180411183700 -0300" stop="20180411190000 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E3</title>
-    <desc lang="pt">Mo Rocca nos mostra neste episódio: o jet ski que também é um submarino; um bloqueador para bicicleta que pode acabar com roubos; e o vidro dobrável do futuro(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180411190000 -0300" stop="20180411200000 -0300" channel="H2">
-    <title lang="pt">Mundos Perdidos E11</title>
-    <desc lang="pt">Especialistas em diversas áreas reconstroem os primeiros anos após a morte de Jesus, quando apenas um pouco mais de 100 de seus seguidores sobreviviam(n)</desc>
-    <date>2006</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180411200000 -0300" stop="20180411203000 -0300" channel="H2">
-    <title lang="pt">Ironias da História - S1E4</title>
-    <desc lang="pt">Tendo em mira os objetivos da guerra, reunimos neste episódio um pelotão de humoristas duros de roer que sabem tudo sobre as armas mais estranhas da história, os generais mais loucos e os maiores erros nos campos de batalha(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411203000 -0300" stop="20180411210000 -0300" channel="H2">
-    <title lang="pt">Ironias da História - S1E9</title>
-    <desc lang="pt">Prepare-se para conhecer os melhores e os piores homens da história, e algumas figuras proeminentes que eram um pouco de ambos. Além das melhores histórias não contadas sobre heróis que salvaram o dia e vilões que o arruinaram(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180411210000 -0300" stop="20180411213000 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E9</title>
-    <desc lang="pt">A história do correio aéreo e como ele mudou a forma de nos comunicarmos, e ainda, como conseguir água na África, e a magia por trás dos animais atores(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180411213000 -0300" stop="20180411220000 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E1</title>
-    <desc lang="pt">O apresentador Mo Rocca nos mostra: óculos que permitem aos daltônicos ver a cor; um agricultor informatizado para o seu jardim; um dispositivo que anula o som do ronco; e ainda como as fibras de vidro iluminaram a história(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180411220000 -0300" stop="20180411223000 -0300" channel="H2">
-    <title lang="pt">A Cara do Futuro - S1E11</title>
-    <desc lang="pt">Vamos viajar pelo país para conhecer iniciativas inovadoras no colaborativismo digital, como um aplicativo que ajuda na prevenção da violência contra mulher(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
+  <programme start="20180508153000 -0300" stop="20180508163000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Cruzeiro x Botafogo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
     <country>Brasil</country>
   </programme>
-  <programme start="20180411223000 -0300" stop="20180411230000 -0300" channel="H2">
-    <title lang="pt">A Cara do Futuro - S1E12</title>
-    <desc lang="pt">Neste episódio conhecemos os novos caminhos da educação e como a tecnologia está criando novas formas de ensinar e aprender(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
+  <programme start="20180508163000 -0300" stop="20180508164000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180508164000 -0300" stop="20180508174000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Atlético PR x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
     <country>Brasil</country>
   </programme>
-  <programme start="20180411230000 -0300" stop="20180412000000 -0300" channel="H2">
-    <title lang="pt">O Universo: Mistérios Revelados E2</title>
-    <desc lang="pt">As Grandes Pirâmides de Gizé continuam a ser uma das maravilhas do mundo antigo. Estes monumentos fascinantes têm desconcertado astrônomos e arqueólogos há séculos. Por que e como foram construídas? Eram meros túmulos, ou um veículo cósmico?(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
+  <programme start="20180508174000 -0300" stop="20180508175000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20180412000000 -0300" stop="20180412010000 -0300" channel="H2">
-    <title lang="pt">Humanidade: A História de Todos Nós E8</title>
-    <desc lang="pt">Nos Andes, os espanhois abrem a maior mina de prata do mundo, e cunham milhões de "pesos de ocho", o dólar espanhol. Estas moedas transformam a economia global, enchem os baús dos piratas de tesouros(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412010000 -0300" stop="20180412020000 -0300" channel="H2">
-    <title lang="pt">Mundos Perdidos E11</title>
-    <desc lang="pt">Especialistas em diversas áreas reconstroem os primeiros anos após a morte de Jesus, quando apenas um pouco mais de 100 de seus seguidores sobreviviam(n)</desc>
-    <date>2006</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180412020000 -0300" stop="20180412023000 -0300" channel="H2">
-    <title lang="pt">Ironias da História - S1E4</title>
-    <desc lang="pt">Tendo em mira os objetivos da guerra, reunimos neste episódio um pelotão de humoristas duros de roer que sabem tudo sobre as armas mais estranhas da história, os generais mais loucos e os maiores erros nos campos de batalha(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412023000 -0300" stop="20180412030000 -0300" channel="H2">
-    <title lang="pt">Ironias da História - S1E9</title>
-    <desc lang="pt">Prepare-se para conhecer os melhores e os piores homens da história, e algumas figuras proeminentes que eram um pouco de ambos. Além das melhores histórias não contadas sobre heróis que salvaram o dia e vilões que o arruinaram(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412030000 -0300" stop="20180412032200 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E9</title>
-    <desc lang="pt">A história do correio aéreo e como ele mudou a forma de nos comunicarmos, e ainda, como conseguir água na África, e a magia por trás dos animais atores(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180412032200 -0300" stop="20180412034500 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E1</title>
-    <desc lang="pt">O apresentador Mo Rocca nos mostra: óculos que permitem aos daltônicos ver a cor; um agricultor informatizado para o seu jardim; um dispositivo que anula o som do ronco; e ainda como as fibras de vidro iluminaram a história(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180412034500 -0300" stop="20180412040700 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E2</title>
-    <desc lang="pt">Neste episódio, vamos conhecer a mais nova tecnologia que nos mantém protegidos dos tornados; as panelas de cozinha mais inteligentes; a invenção do primeiro sintetizador de música; e a bateria que durará para sempre(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180412040700 -0300" stop="20180412043000 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E3</title>
-    <desc lang="pt">Mo Rocca nos mostra neste episódio: o jet ski que também é um submarino; um bloqueador para bicicleta que pode acabar com roubos; e o vidro dobrável do futuro(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180412043000 -0300" stop="20180412051500 -0300" channel="H2">
-    <title lang="pt">O Universo: Mistérios Revelados E2</title>
-    <desc lang="pt">As Grandes Pirâmides de Gizé continuam a ser uma das maravilhas do mundo antigo. Estes monumentos fascinantes têm desconcertado astrônomos e arqueólogos há séculos. Por que e como foram construídas? Eram meros túmulos, ou um veículo cósmico?(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412051500 -0300" stop="20180412060000 -0300" channel="H2">
-    <title lang="pt">Humanidade: A História de Todos Nós E8</title>
-    <desc lang="pt">Nos Andes, os espanhois abrem a maior mina de prata do mundo, e cunham milhões de "pesos de ocho", o dólar espanhol. Estas moedas transformam a economia global, enchem os baús dos piratas de tesouros(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412060000 -0300" stop="20180412064500 -0300" channel="H2">
-    <title lang="pt">Mundos Perdidos E11</title>
-    <desc lang="pt">Especialistas em diversas áreas reconstroem os primeiros anos após a morte de Jesus, quando apenas um pouco mais de 100 de seus seguidores sobreviviam(n)</desc>
-    <date>2006</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180412064500 -0300" stop="20180412073000 -0300" channel="H2">
-    <title lang="pt">Humanidade: A História de Todos Nós E8</title>
-    <desc lang="pt">Nos Andes, os espanhois abrem a maior mina de prata do mundo, e cunham milhões de "pesos de ocho", o dólar espanhol. Estas moedas transformam a economia global, enchem os baús dos piratas de tesouros(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412073000 -0300" stop="20180412075200 -0300" channel="H2">
-    <title lang="pt">Ironias da História - S1E4</title>
-    <desc lang="pt">Tendo em mira os objetivos da guerra, reunimos neste episódio um pelotão de humoristas duros de roer que sabem tudo sobre as armas mais estranhas da história, os generais mais loucos e os maiores erros nos campos de batalha(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412075200 -0300" stop="20180412081500 -0300" channel="H2">
-    <title lang="pt">Ironias da História - S1E9</title>
-    <desc lang="pt">Prepare-se para conhecer os melhores e os piores homens da história, e algumas figuras proeminentes que eram um pouco de ambos. Além das melhores histórias não contadas sobre heróis que salvaram o dia e vilões que o arruinaram(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412081500 -0300" stop="20180412083700 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E9</title>
-    <desc lang="pt">A história do correio aéreo e como ele mudou a forma de nos comunicarmos, e ainda, como conseguir água na África, e a magia por trás dos animais atores(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180412083700 -0300" stop="20180412090000 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E1</title>
-    <desc lang="pt">O apresentador Mo Rocca nos mostra: óculos que permitem aos daltônicos ver a cor; um agricultor informatizado para o seu jardim; um dispositivo que anula o som do ronco; e ainda como as fibras de vidro iluminaram a história(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180412090000 -0300" stop="20180412092200 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E2</title>
-    <desc lang="pt">Neste episódio, vamos conhecer a mais nova tecnologia que nos mantém protegidos dos tornados; as panelas de cozinha mais inteligentes; a invenção do primeiro sintetizador de música; e a bateria que durará para sempre(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180412092200 -0300" stop="20180412094500 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E3</title>
-    <desc lang="pt">Mo Rocca nos mostra neste episódio: o jet ski que também é um submarino; um bloqueador para bicicleta que pode acabar com roubos; e o vidro dobrável do futuro(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180412094500 -0300" stop="20180412103000 -0300" channel="H2">
-    <title lang="pt">O Universo: Mistérios Revelados E2</title>
-    <desc lang="pt">As Grandes Pirâmides de Gizé continuam a ser uma das maravilhas do mundo antigo. Estes monumentos fascinantes têm desconcertado astrônomos e arqueólogos há séculos. Por que e como foram construídas? Eram meros túmulos, ou um veículo cósmico?(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412103000 -0300" stop="20180412110000 -0300" channel="H2">
-    <title lang="pt">A Ferro e Fogo - S1E8</title>
-    <desc lang="pt">Daniel tem um cliente muito peculiar que quer um rifle de percussão do século 19, mas enquanto ele o faz, participará em um concurso de pesca com seus amigos(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412110000 -0300" stop="20180412120000 -0300" channel="H2">
-    <title lang="pt">Mundos Perdidos E11</title>
-    <desc lang="pt">Especialistas em diversas áreas reconstroem os primeiros anos após a morte de Jesus, quando apenas um pouco mais de 100 de seus seguidores sobreviviam(n)</desc>
-    <date>2006</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Reino Unido</country>
-  </programme>
-  <programme start="20180412120000 -0300" stop="20180412123000 -0300" channel="H2">
-    <title lang="pt">A Ferro e Fogo - S1E9</title>
-    <desc lang="pt">Um amigo de Daniel precisa de ajuda para resolver um problema de castores. Os rapazes começam a trabalhar em plano que inclui muitos tiros e grandes explosões(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412123000 -0300" stop="20180412130000 -0300" channel="H2">
-    <title lang="pt">A Ferro e Fogo - S1E10</title>
-    <desc lang="pt">Para participar de uma tradicional caça a javalis, Daniel propõe a construção da melhor lança possível, mas também tem de cumprir os seus deveres de pai e passar um bom tempo com seu filho de 3 anos(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412130000 -0300" stop="20180412133000 -0300" channel="H2">
-    <title lang="pt">Ironias da História - S1E4</title>
-    <desc lang="pt">Tendo em mira os objetivos da guerra, reunimos neste episódio um pelotão de humoristas duros de roer que sabem tudo sobre as armas mais estranhas da história, os generais mais loucos e os maiores erros nos campos de batalha(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412133000 -0300" stop="20180412140000 -0300" channel="H2">
-    <title lang="pt">Ironias da História - S1E9</title>
-    <desc lang="pt">Prepare-se para conhecer os melhores e os piores homens da história, e algumas figuras proeminentes que eram um pouco de ambos. Além das melhores histórias não contadas sobre heróis que salvaram o dia e vilões que o arruinaram(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20180412140000 -0300" stop="20180412143000 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E9</title>
-    <desc lang="pt">A história do correio aéreo e como ele mudou a forma de nos comunicarmos, e ainda, como conseguir água na África, e a magia por trás dos animais atores(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180412143000 -0300" stop="20180412150000 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E1</title>
-    <desc lang="pt">O apresentador Mo Rocca nos mostra: óculos que permitem aos daltônicos ver a cor; um agricultor informatizado para o seu jardim; um dispositivo que anula o som do ronco; e ainda como as fibras de vidro iluminaram a história(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180412150000 -0300" stop="20180412153000 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E2</title>
-    <desc lang="pt">Neste episódio, vamos conhecer a mais nova tecnologia que nos mantém protegidos dos tornados; as panelas de cozinha mais inteligentes; a invenção do primeiro sintetizador de música; e a bateria que durará para sempre(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180412153000 -0300" stop="20180412160000 -0300" channel="H2">
-    <title lang="pt">Planeta Inovação - S6E3</title>
-    <desc lang="pt">Mo Rocca nos mostra neste episódio: o jet ski que também é um submarino; um bloqueador para bicicleta que pode acabar com roubos; e o vidro dobrável do futuro(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>Canadá</country>
-  </programme>
-  <programme start="20180412160000 -0300" stop="20180412170000 -0300" channel="H2">
-    <title lang="pt">O Universo: Mistérios Revelados E2</title>
-    <desc lang="pt">As Grandes Pirâmides de Gizé continuam a ser uma das maravilhas do mundo antigo. Estes monumentos fascinantes têm desconcertado astrônomos e arqueólogos há séculos. Por que e como foram construídas? Eram meros túmulos, ou um veículo cósmico?(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412170000 -0300" stop="20180412173000 -0300" channel="H2">
-    <title lang="pt">A Ferro e Fogo - S1E9</title>
-    <desc lang="pt">Um amigo de Daniel precisa de ajuda para resolver um problema de castores. Os rapazes começam a trabalhar em plano que inclui muitos tiros e grandes explosões(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412173000 -0300" stop="20180412181500 -0300" channel="H2">
-    <title lang="pt">Humanidade: A História de Todos Nós E9</title>
-    <desc lang="pt">A humanidade dá início a uma nova era de explorações e conquista o deserto. Na América do Norte, Sibéria e Austrália, as antigas tradições são varridas em nome do comércio e da ciência. Revolucionários americanos enfrentam um império poderoso(n)</desc>
-    <date>2012</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180412181500 -0300" stop="20180412183700 -0300" channel="H2">
-    <title lang="pt">A Cara do Futuro - S1E13</title>
-    <desc lang="pt">No último episódio da série ''A Cara do Futuro" apresentamos os caminhos do amanhã através da conversa com futuristas, especialistas e pesquisadores(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
+  <programme start="20180508175000 -0300" stop="20180508185000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Corinthians x Ceará</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
     <country>Brasil</country>
   </programme>
-  <programme start="20180412183700 -0300" stop="20180412190000 -0300" channel="H2">
-    <title lang="pt">A Cara do Futuro - S1E1</title>
-    <desc lang="pt">Vamos falar da Robótica Brasileira, em cases e projetos que parecem sair de filmes de ficção científica(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
+  <programme start="20180508185000 -0300" stop="20180508190000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180508190000 -0300" stop="20180508193000 -0300" channel="SporTV 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180508193000 -0300" stop="20180508213000 -0300" channel="SporTV 2">
+    <title lang="pt">NBB: Paulistano x Bauru - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete Masculino</category>
+  </programme>
+  <programme start="20180508213000 -0300" stop="20180508214500 -0300" channel="SporTV 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180508214500 -0300" stop="20180508234500 -0300" channel="SporTV 2">
+    <title lang="pt">Danubio (URU) x Deportivo Cali (COL) - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180508234500 -0300" stop="20180509000000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180509000000 -0300" stop="20180509010000 -0300" channel="SporTV 2">
+    <title lang="pt">Sensei Combate</title>
+    <desc lang="pt">Flavio Canto comanda o Sensei Combate, programa com matérias exclusivas sobre o mundo da luta, confrontos inesquecíveis e história dos grandes ídolos. E ainda tem Kyra Gracie com o quadro Vai Pra Luta. Todo sábado, inédito no SporTV(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180509010000 -0300" stop="20180509020000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Flamengo x Internacional</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
     <country>Brasil</country>
   </programme>
-  <programme start="20180412190000 -0300" stop="20180412200000 -0300" channel="H2">
-    <title lang="pt">Mundos Perdidos E8</title>
-    <desc lang="pt">Entre no fascinante mundo dos cavaleiros templários. Você conhecerá seu império, seus rituais secretos, seu sistema bancário e, enfim, todo o mundo de ambições, mistérios, violência e poder dos mais lendários cavaleiros(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
+  <programme start="20180509020000 -0300" stop="20180509030000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Vasco x América MG</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
   </programme>
-  <programme start="20180412200000 -0300" stop="20180412210000 -0300" channel="H2">
-    <title lang="pt">Luta Jurássica E9</title>
-    <desc lang="pt">Milhões de anos de evolução geraram alguns dos dinossauros mais monstruosos já imaginados. Agora daremos uma olhada em primeira mão a algumas das criaturas pré-históricas mais mortíferas já conhecidas(n)</desc>
-    <date>2008</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
+  <programme start="20180509030000 -0300" stop="20180509040000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Vitória x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
   </programme>
-  <programme start="20180412210000 -0300" stop="20180412220000 -0300" channel="H2">
-    <title lang="pt">Luta Jurássica E1</title>
-    <desc lang="pt">O Alossauro e o Ceratosauro se enfrentam em um bebedouro, uma cavidade pré-histórica com água, no que seria uma das lutas mais sangrentas registradas na história paleontológica(n)</desc>
-    <date>2008</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
+  <programme start="20180509040000 -0300" stop="20180509050000 -0300" channel="SporTV 2">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20180412220000 -0300" stop="20180412230000 -0300" channel="H2">
-    <title lang="pt">Luta Jurássica E2</title>
-    <desc lang="pt">Em 1998, um grupo de paleontólogos que trabalhava na Ilha de Madagascar, descobriu restos de um Majungassauro, um dos predadores mais temidos de sua época(n)</desc>
-    <date>2008</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
+  <programme start="20180509050000 -0300" stop="20180509060000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Grêmio x Santos</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
   </programme>
-  <programme start="20180412230000 -0300" stop="20180413000000 -0300" channel="H2">
-    <title lang="pt">Luta Jurássica E3</title>
-    <desc lang="pt">O Megalodon, uma criatura de mais de 15 metros, parente do moderno Grande Tubarão Branco, enfrenta uma Brygmophyseter, uma espécie extinta de baleia Cachalote, com dentes enormes iguais aos do Tiranossauro-Rex(n)</desc>
-    <date>2008</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
+  <programme start="20180509060000 -0300" stop="20180509070000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Corinthians x Ceará</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180509070000 -0300" stop="20180509080000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Atlético PR x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180509080000 -0300" stop="20180509141000 -0300" channel="SporTV 2">
+    <title lang="pt">MSI - LOL - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180509141000 -0300" stop="20180509142000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180509142000 -0300" stop="20180509152000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Corinthians x Ceará</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180509152000 -0300" stop="20180509153000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180509153000 -0300" stop="20180509163000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Flamengo x Internacional</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180509163000 -0300" stop="20180509164000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180509164000 -0300" stop="20180509174000 -0300" channel="SporTV 2">
+    <title lang="pt">Sensei Combate</title>
+    <desc lang="pt">Flavio Canto comanda o Sensei Combate, programa com matérias exclusivas sobre o mundo da luta, confrontos inesquecíveis e história dos grandes ídolos. E ainda tem Kyra Gracie com o quadro Vai Pra Luta. Todo sábado, inédito no SporTV(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180509174000 -0300" stop="20180509175000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180509175000 -0300" stop="20180509185000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Atlético MG x San Lorenzo (ARG)</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180509185000 -0300" stop="20180509190000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180509190000 -0300" stop="20180509193000 -0300" channel="SporTV 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180509193000 -0300" stop="20180509213000 -0300" channel="SporTV 2">
+    <title lang="pt">Grêmio x Goiás - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180509213000 -0300" stop="20180509214500 -0300" channel="SporTV 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180509214500 -0300" stop="20180509234500 -0300" channel="SporTV 2">
+    <title lang="pt">Bahia x Vasco - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180509234500 -0300" stop="20180510000000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180510000000 -0300" stop="20180510010000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - América MG x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180510010000 -0300" stop="20180510020000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - São Paulo x Rosário Central (ARG)</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180510020000 -0300" stop="20180510030000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Corinthians x Ceará</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180510030000 -0300" stop="20180510040000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Flamengo x Internacional</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180510040000 -0300" stop="20180510050000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - América MG x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180510050000 -0300" stop="20180510060000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Atlético MG x San Lorenzo (ARG)</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180510060000 -0300" stop="20180510070000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Amiens x Psg</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180510070000 -0300" stop="20180510080000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Botafogo x Audax Italiano (CHI)</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180510080000 -0300" stop="20180510090000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Grêmio x Goiás</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180510090000 -0300" stop="20180510100000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Bahia x Vasco</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180510100000 -0300" stop="20180510110000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - América MG x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180510110000 -0300" stop="20180510120000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - São Paulo x Rosário Central (ARG)</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180510120000 -0300" stop="20180510130000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Botafogo x Audax Italiano (CHI)</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180510130000 -0300" stop="20180510131000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180510131000 -0300" stop="20180510141000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Bahia x Vasco</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180510141000 -0300" stop="20180510142000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180510142000 -0300" stop="20180510152000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - América MG x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180510152000 -0300" stop="20180510153000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180510153000 -0300" stop="20180510163000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - São Paulo x Rosário Central (ARG)</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180510163000 -0300" stop="20180510164000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180510164000 -0300" stop="20180510174000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Atlético MG x San Lorenzo (ARG)</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180510174000 -0300" stop="20180510175000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180510175000 -0300" stop="20180510185000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Bahia x Vasco</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180510185000 -0300" stop="20180510190000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180510190000 -0300" stop="20180510191500 -0300" channel="SporTV 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180510191500 -0300" stop="20180510211500 -0300" channel="SporTV 2">
+    <title lang="pt">Newell's Old Boys (ARG) x Atl. Paranaense - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180510211500 -0300" stop="20180510213000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180510213000 -0300" stop="20180510222000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - América MG x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180510222000 -0300" stop="20180510223000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180510223000 -0300" stop="20180510233000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Flamengo x Ponte Preta</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180510233000 -0300" stop="20180510234000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180510234000 -0300" stop="20180511010000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Corinthians x Vitória</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180511010000 -0300" stop="20180511020000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Santos x Luverdense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180511020000 -0300" stop="20180511030000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - América MG x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180511030000 -0300" stop="20180511040000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Grêmio x Goiás</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180511040000 -0300" stop="20180511050000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Newell's Old Boys (ARG) x Atl. Paranaense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180511050000 -0300" stop="20180511054500 -0300" channel="SporTV 2">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180511054500 -0300" stop="20180511060000 -0300" channel="SporTV 2">
+    <title lang="pt">Pré - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20180511060000 -0300" stop="20180511073000 -0300" channel="SporTV 2">
+    <title lang="pt">Fórmula 1: 1º Treino Livre - GP da Espanha - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20180511073000 -0300" stop="20180511083000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Flamengo x Ponte Preta</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180511083000 -0300" stop="20180511094500 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Corinthians x Vitória</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180511094500 -0300" stop="20180511100000 -0300" channel="SporTV 2">
+    <title lang="pt">Pré - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20180511100000 -0300" stop="20180511113000 -0300" channel="SporTV 2">
+    <title lang="pt">Fórmula 1: 2º Treino Livre - GP da Espanha - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20180511113000 -0300" stop="20180511123000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Flamengo x Ponte Preta</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180511123000 -0300" stop="20180511130000 -0300" channel="SporTV 2">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180511130000 -0300" stop="20180511131000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180511131000 -0300" stop="20180511141000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Corinthians x Vitória</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180511141000 -0300" stop="20180511142000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180511142000 -0300" stop="20180511152000 -0300" channel="SporTV 2">
+    <title lang="pt">UFC 223 - Khabib x Iaquinta</title>
+    <desc lang="pt">Neste UFC, Iaquinta encara Khabib Nurmagomedov. Rose Namajunas e Joanna Jedrzejczyk fazem uma revanche valendo o cinturão das peso palha. O peso-pena brasileiro Renato Moicano enfrenta Calvin Kattar, e muito mais(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20180511152000 -0300" stop="20180511153500 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180511153500 -0300" stop="20180511163500 -0300" channel="SporTV 2">
+    <title lang="pt">Countdown UFC 224 - Nunes x Pennington</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20180511163500 -0300" stop="20180511164500 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180511164500 -0300" stop="20180511170000 -0300" channel="SporTV 2">
+    <title lang="pt">Pré - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20180511170000 -0300" stop="20180511174500 -0300" channel="SporTV 2">
+    <title lang="pt">UFC 224 - Nunes x Pennington - Vivo</title>
+    <desc lang="pt">O UFC 224, no Rio de Janeiro, tem Amanda Nunes defendendo seu cinturão contra Raquel Pennington. Ronaldo Jacaré enfrenta Kelvin Gastelum, Mackenzie Dern encara Amanda Cooper, e Vitor Belfort duela contra Lyoto Machida(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20180511174500 -0300" stop="20180511180000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180511180000 -0300" stop="20180511190000 -0300" channel="SporTV 2">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180511190000 -0300" stop="20180511191000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180511191000 -0300" stop="20180511202000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Flamengo x Ponte Preta</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180511202000 -0300" stop="20180511203000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180511203000 -0300" stop="20180511210000 -0300" channel="SporTV 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180511210000 -0300" stop="20180511230000 -0300" channel="SporTV 2">
+    <title lang="pt">NBB - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180511230000 -0300" stop="20180511233500 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180511233500 -0300" stop="20180512013500 -0300" channel="SporTV 2">
+    <title lang="pt">MLS: Vancouver Whitecaps x Houston Dynamo - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180508080000 -0300" stop="20180508141000 -0300" channel="SporTv 2">
+    <title lang="pt">MSI - LOL - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180508141000 -0300" stop="20180508142000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180508142000 -0300" stop="20180508152000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Flamengo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180508152000 -0300" stop="20180508153000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180508153000 -0300" stop="20180508163000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Cruzeiro x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180508163000 -0300" stop="20180508164000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180508164000 -0300" stop="20180508174000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Atlético PR x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180508174000 -0300" stop="20180508175000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180508175000 -0300" stop="20180508185000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Corinthians x Ceará</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180508185000 -0300" stop="20180508190000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180508190000 -0300" stop="20180508193000 -0300" channel="SporTv 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180508193000 -0300" stop="20180508213000 -0300" channel="SporTv 2">
+    <title lang="pt">NBB: Paulistano x Bauru - Vivo</title>
+    <category lang="pt">Esporte/Basquete Masculino</category>
+  </programme>
+  <programme start="20180508213000 -0300" stop="20180508214500 -0300" channel="SporTv 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180508214500 -0300" stop="20180508234500 -0300" channel="SporTv 2">
+    <title lang="pt">Danubio (URU) x Deportivo Cali (COL) - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180508234500 -0300" stop="20180509000000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180509000000 -0300" stop="20180509010000 -0300" channel="SporTv 2">
+    <title lang="pt">Sensei Combate</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180509010000 -0300" stop="20180509020000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Flamengo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180509020000 -0300" stop="20180509030000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Vasco x América MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180509030000 -0300" stop="20180509040000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Vitória x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180509040000 -0300" stop="20180509050000 -0300" channel="SporTv 2">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180509050000 -0300" stop="20180509060000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Grêmio x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180509060000 -0300" stop="20180509070000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Corinthians x Ceará</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180509070000 -0300" stop="20180509080000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Atlético PR x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180509080000 -0300" stop="20180509141000 -0300" channel="SporTv 2">
+    <title lang="pt">MSI - LOL - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180509141000 -0300" stop="20180509142000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180509142000 -0300" stop="20180509152000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Corinthians x Ceará</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180509152000 -0300" stop="20180509153000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180509153000 -0300" stop="20180509163000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Flamengo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180509163000 -0300" stop="20180509164000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180509164000 -0300" stop="20180509174000 -0300" channel="SporTv 2">
+    <title lang="pt">Sensei Combate</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180509174000 -0300" stop="20180509175000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180509175000 -0300" stop="20180509185000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Atlético MG x San Lorenzo (ARG)</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180509185000 -0300" stop="20180509190000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180509190000 -0300" stop="20180509193000 -0300" channel="SporTv 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180509193000 -0300" stop="20180509213000 -0300" channel="SporTv 2">
+    <title lang="pt">Grêmio x Goiás - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180509213000 -0300" stop="20180509214500 -0300" channel="SporTv 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180509214500 -0300" stop="20180509234500 -0300" channel="SporTv 2">
+    <title lang="pt">Bahia x Vasco - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180509234500 -0300" stop="20180510000000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180510000000 -0300" stop="20180510010000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - América MG x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510010000 -0300" stop="20180510020000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - São Paulo x Rosário Central (ARG)</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510020000 -0300" stop="20180510030000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Corinthians x Ceará</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510030000 -0300" stop="20180510040000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Flamengo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510040000 -0300" stop="20180510050000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - América MG x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510050000 -0300" stop="20180510060000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Atlético MG x San Lorenzo (ARG)</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510060000 -0300" stop="20180510070000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Amiens x Psg</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510070000 -0300" stop="20180510080000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Botafogo x Audax Italiano (CHI)</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510080000 -0300" stop="20180510090000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Grêmio x Goiás</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510090000 -0300" stop="20180510100000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Bahia x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510100000 -0300" stop="20180510110000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - América MG x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510110000 -0300" stop="20180510120000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - São Paulo x Rosário Central (ARG)</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510120000 -0300" stop="20180510130000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Botafogo x Audax Italiano (CHI)</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510130000 -0300" stop="20180510131000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180510131000 -0300" stop="20180510141000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Bahia x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510141000 -0300" stop="20180510142000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180510142000 -0300" stop="20180510152000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - América MG x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510152000 -0300" stop="20180510153000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180510153000 -0300" stop="20180510163000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - São Paulo x Rosário Central (ARG)</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510163000 -0300" stop="20180510164000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180510164000 -0300" stop="20180510174000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Atlético MG x San Lorenzo (ARG)</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510174000 -0300" stop="20180510175000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180510175000 -0300" stop="20180510185000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Bahia x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510185000 -0300" stop="20180510190000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180510190000 -0300" stop="20180510191500 -0300" channel="SporTv 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180510191500 -0300" stop="20180510211500 -0300" channel="SporTv 2">
+    <title lang="pt">Newell's Old Boys (ARG) x Atl. Paranaense - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510211500 -0300" stop="20180510213000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180510213000 -0300" stop="20180510222000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - América MG x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510222000 -0300" stop="20180510223000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180510223000 -0300" stop="20180510233000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Flamengo x Ponte Preta</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180510233000 -0300" stop="20180510234000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180510234000 -0300" stop="20180511010000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Corinthians x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180511010000 -0300" stop="20180511020000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Santos x Luverdense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180511020000 -0300" stop="20180511030000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - América MG x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180511030000 -0300" stop="20180511040000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Grêmio x Goiás</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180511040000 -0300" stop="20180511050000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Newell's Old Boys (ARG) x Atl. Paranaense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180511050000 -0300" stop="20180511054500 -0300" channel="SporTv 2">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180511054500 -0300" stop="20180511060000 -0300" channel="SporTv 2">
+    <title lang="pt">Pré - Vivo</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180511060000 -0300" stop="20180511073000 -0300" channel="SporTv 2">
+    <title lang="pt">Fórmula 1: 1º Treino Livre - GP da Espanha - Vivo</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20180511073000 -0300" stop="20180511083000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Flamengo x Ponte Preta</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180511083000 -0300" stop="20180511094500 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Corinthians x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180511094500 -0300" stop="20180511100000 -0300" channel="SporTv 2">
+    <title lang="pt">Pré - Vivo</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180511100000 -0300" stop="20180511113000 -0300" channel="SporTv 2">
+    <title lang="pt">Fórmula 1: 2º Treino Livre - GP da Espanha - Vivo</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20180511113000 -0300" stop="20180511123000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Flamengo x Ponte Preta</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180511123000 -0300" stop="20180511130000 -0300" channel="SporTv 2">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180511130000 -0300" stop="20180511131000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180511131000 -0300" stop="20180511141000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Corinthians x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180511141000 -0300" stop="20180511142000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180511142000 -0300" stop="20180511152000 -0300" channel="SporTv 2">
+    <title lang="pt">UFC 223 - Khabib x Iaquinta</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180511152000 -0300" stop="20180511153500 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180511153500 -0300" stop="20180511163500 -0300" channel="SporTv 2">
+    <title lang="pt">Countdown UFC 224 - Nunes x Pennington</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180511163500 -0300" stop="20180511164500 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180511164500 -0300" stop="20180511170000 -0300" channel="SporTv 2">
+    <title lang="pt">Pré - Vivo</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180511170000 -0300" stop="20180511174500 -0300" channel="SporTv 2">
+    <title lang="pt">UFC 224 - Nunes x Pennington - Vivo</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180511174500 -0300" stop="20180511180000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180511180000 -0300" stop="20180511190000 -0300" channel="SporTv 2">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180511190000 -0300" stop="20180511191000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180511191000 -0300" stop="20180511202000 -0300" channel="SporTv 2">
+    <title lang="pt">VT - Flamengo x Ponte Preta</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180511202000 -0300" stop="20180511203000 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180511203000 -0300" stop="20180511210000 -0300" channel="SporTv 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180511210000 -0300" stop="20180511230000 -0300" channel="SporTv 2">
+    <title lang="pt">NBB - Vivo</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180511230000 -0300" stop="20180511233500 -0300" channel="SporTv 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180511233500 -0300" stop="20180512013500 -0300" channel="SporTv 2">
+    <title lang="pt">MLS: Vancouver Whitecaps x Houston Dynamo - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
   </programme>
 </tv>
